@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-owl
+target: owl
+
+cmds:
+  - cmd: /repo/owl @@
+    filepath: /test.owl
